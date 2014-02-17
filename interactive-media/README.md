@@ -16,7 +16,8 @@ Die 2. Perspektive gibt die Möglichkeit Filme von flashTV zu schauen und sich h
 Die 3. Perspektive beinhaltet einen Youtube-Flashplayer mit Suchfunktion und auch hier kann man sich wieder Kategorien anlegen und per Drag 'N Drop Youtube-Videos zu den Kategorien zufügen.
 
 
-#HINWEIS: Da neben MLT auch gstreamer eingesetzt wird, sind momentan nur die zugehörigen .so-Dateien integriert, was heisst, dass das Programm unter Windows nicht vollständig lauffähig ist.
+#HINWEIS: 
+Da neben MLT auch gstreamer eingesetzt wird, sind momentan nur die zugehörigen .so-Dateien integriert, was heisst, dass das Programm unter Windows nicht vollständig lauffähig ist.
 
 #TODO:  
  - Aubauens des MLT-Framework
