@@ -2,7 +2,7 @@ study-it
 ========
 
 Im Fach Interaktive Medien, sollte ein MP3-Player in Java realisiert werden. Da ich dieses Fach erst später belegt hatte und mit Absprache des Professors, mir es erlaubt war, eine andere Technologie einzusetzen, als Java-Swing, entschied ich
-mich für eine RCP-Anwendung mit den noch als incubation gesetzten Eclipse-e4-Tools (4.3).
+mich für eine RCP-Anwendung mit dem noch als Incubation gesetzten Eclipse-e4-Tools (4.3).
 
 Da Java gerade im Medienbereich nicht so geeignet ist, JMF wird schon länger nicht mehr weiter entwickelt, versuchte ich
 meine Anwendung, mittels gstreamer und dem MLT-Framework umzusetzen, daneben habe ich noch folgende Technologien eingesetzt: Eclipse-Link für das Object-Relation-Mapping zu einer dateibasierten Datenbank (sqlite3) und zur Visualisierung eines Displays, die Programmiersprache Processing. Anfangs versuchte ich, das ganze als vaad-clipse zu realisieren, da aber die Umstellung von dem Plugin zu Vaadin7, sowie eine Umstellung auf Eclipse 4.3, noch nicht fertig war, dachte ich zunächst das Projekt, als JavaFX e(fx)clipse umzusetzen, da mir aber dafür allmählich die Zeit davon lief, blieb das Projekt ein SWT-Projekt.
